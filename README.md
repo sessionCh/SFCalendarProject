@@ -7,7 +7,7 @@
     <li>SFCalendarView 负责视图显示</li>
   </ol>
 </div>
-<hr size=1/>
+<hr/>
 <div>
   <img src="/SFCalendarProject/Simulator Screen Shot 2017年1月3日 下午5.24.45.png" width = "350" alt="github-01.jpg" align=left />
 </div>
